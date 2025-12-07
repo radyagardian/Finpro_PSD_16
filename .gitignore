@@ -1,0 +1,25 @@
+# trash folder
+db/
+incremental_db/
+output_files/
+simulation/
+work/
+
+# trash folder Quartus & ModelSim
+transcript
+sc_log.txt
+vsim.wlf
+*.wlf
+wlft*
+*.qws
+*.jdi
+*.sof
+*.pof
+*.summary
+*.ttxt
+*.smsg
+*.done
+*.bak
+*.bkp
+*.mti
+*.mpf
